@@ -1,1 +1,1 @@
-# Cheese Puzzle
+# Chess Puzzle
