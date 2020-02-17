@@ -1,0 +1,8 @@
+#--*-- Bishop Position --*--
+2 6
+#--*-- Pawn Position --*--
+1 5
+4 2
+6 4
+5 5
+2 2

@@ -1,0 +1,6 @@
+#--*-- Queen Position --*--
+7 1
+#--*-- Pawn Position --*--
+6 0
+5 1
+4 0
